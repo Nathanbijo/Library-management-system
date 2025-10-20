@@ -18,7 +18,7 @@ Install the Python connector:
 ```bash
 pip install mysql-connector-python
 
-
+```
 **## 🗃️ Database Setup (MySQL)
 
 1. Start MySQL and log in:**
@@ -152,12 +152,3 @@ This project is intentionally kept in its original classic terminal form as buil
 Optional future improvements: parameterized queries, `.env` for credentials, unit tests for fine logic, and a minimal web UI.
 
 ---
-
-## 📝 License
-
-Personal/educational use. Add a license (e.g., MIT) if you plan to share or accept contributions.
-
-```
-
-Want me to add a tiny ASCII preview of the menu inside this same file, or a PNG screenshot section?
-```
