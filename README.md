@@ -21,7 +21,7 @@ pip install mysql-connector-python
 ```
 ## 🗃️ Database Setup (MySQL)
 
-1. Start MySQL and log in:**
+1. Start MySQL and log in:
 
 ```bash
 mysql -u root -p
